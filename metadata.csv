@@ -1,0 +1,107 @@
+Declare,metatab-latest
+Title,Consumer Expenditure Surveys Public-use Microdata References
+Description,Links to files for the Consumer Expenditure Surveys Public-use Microdata. This
+Description,"package does not contain data resources, but can be used for building extract"
+Description,packages
+Identifier,9bf74b38-9378-48ec-9065-dd93ac607bbc
+Name,bls.org-cex-1.1.1
+Dataset,cex_pumd
+Origin,bls.org
+Time,
+Space,
+Grain,
+Variant,ref
+Version,1.1.1
+Version.Major,1
+Version.Minor,1
+Version.Patch,1
+Created,2021-01-05T22:41:56
+Modified,2021-01-05T22:50:41
+Giturl,https://github.com/metatab-packages/inequality-collection.git
+
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+Homepage,https://www.bls.gov/cex/,Consumer Expenditure Surveys home page,,
+Homepage,https://www.bls.gov/cex/pumd.htm,PUMD Homepage,,
+Downloadpage,https://www.bls.gov/cex/pumd_data.htm,PUMD Download page,,
+Documentation,https://www.bls.gov/cex/pumd_doc.htm,PUMD Documentation,,
+
+Section,References,Name,Description,
+Reference,https://www.bls.gov/cex/ce_source_integrate.xlsx,variables,Variables and codes,
+Reference,https://www.bls.gov/cex/pumd/ce_pumd_interview_diary_dictionary.xlsx,ce_pumd_interview_diary_dictionary,Dictionary for Interview and Diary Surveys (XLSX),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary80.zip,diary80,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary81.zip,diary81,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary90.zip,diary90,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary91.zip,diary91,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary92.zip,diary92,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary93.zip,diary93,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary94.zip,diary94,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary95.zip,diary95,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary96.zip,diary96,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary97.zip,diary97,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary98.zip,diary98,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary99.zip,diary99,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary00.zip,diary00,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary01.zip,diary01,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary02.zip,diary02,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary03.zip,diary03,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary04.zip,diary04,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary05.zip,diary05,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary06.zip,diary06,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary07.zip,diary07,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary08.zip,diary08,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary09.zip,diary09,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary10.zip,diary10,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary11.zip,diary11,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary12.zip,diary12,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary13.zip,diary13,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary14.zip,diary14,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary15.zip,diary15,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary16.zip,diary16,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary17.zip,diary17,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary18.zip,diary18,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/diary19.zip,diary19,Diary (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw80.zip,intrvw80,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw81.zip,intrvw81,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw84.zip,intrvw84,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw85.zip,intrvw85,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw86.zip,intrvw86,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw87.zip,intrvw87,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw88.zip,intrvw88,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw89.zip,intrvw89,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw90.zip,intrvw90,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw91.zip,intrvw91,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw92.zip,intrvw92,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw93.zip,intrvw93,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw94.zip,intrvw94,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw95.zip,intrvw95,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw96.zip,intrvw96,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw97.zip,intrvw97,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw98.zip,intrvw98,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw99.zip,intrvw99,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw00.zip,intrvw00,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw01.zip,intrvw01,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw02.zip,intrvw02,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw03.zip,intrvw03,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw04.zip,intrvw04,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw05.zip,intrvw05,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw06.zip,intrvw06,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw07.zip,intrvw07,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw08.zip,intrvw08,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw09.zip,intrvw09,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw10.zip,intrvw10,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw11.zip,intrvw11,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw12.zip,intrvw12,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw13.zip,intrvw13,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw14.zip,intrvw14,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw15.zip,intrvw15,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw16.zip,intrvw16,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw17.zip,intrvw17,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw18.zip,intrvw18,Interview (zip),
+Reference,https://www.bls.gov/cex/pumd/data/comma/intrvw19.zip,intrvw19,Interview (zip),
+,,,,
+Section,Resources,Name,Description,
+Section,Schema,DataType,AltName,Description
