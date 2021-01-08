@@ -30,6 +30,7 @@ Downloadpage,https://www.bls.gov/cex/pumd_data.htm,PUMD Download page,,
 Documentation,https://www.bls.gov/cex/pumd_doc.htm,PUMD Documentation,,
 
 Section,References,Name,Description,
+Reference,https://www.bls.gov/cex/pumd/stubs.zip,ucc_groupings,"Hierarchical groupings, the codes for purchases and expenses.",
 Reference,https://www.bls.gov/cex/ce_source_integrate.xlsx,variables,Variables and codes,
 Reference,https://www.bls.gov/cex/pumd/ce_pumd_interview_diary_dictionary.xlsx,ce_pumd_interview_diary_dictionary,Dictionary for Interview and Diary Surveys (XLSX),
 Reference,https://www.bls.gov/cex/pumd/data/comma/diary80.zip,diary80,Diary (zip),
